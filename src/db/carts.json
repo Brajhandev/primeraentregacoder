@@ -1,0 +1,19 @@
+[
+  { "id": "97af3f6e-29b2-4183-809f-62d8cd86bd9b", "products": [] },
+  {
+    "id": "9c02bed4-6ce1-48ed-910d-dd38e216cb06",
+    "products": [
+      { "idproduct": "1", "quatity": 1 },
+      { "idproduct": "2", "quatity": 3 }
+    ]
+  },
+  {
+    "id": "25a20d23-09a8-4171-b403-31d309c1225e",
+    "products": [
+      { "idproduct": "1", "quatity": 1 },
+      { "idproduct": "2", "quatity": 1 },
+      { "idproduct": "3", "quatity": 4 }
+    ]
+  },
+  { "id": "2f428545-042c-4816-bd23-dc53e829e65b", "products": [] }
+]
